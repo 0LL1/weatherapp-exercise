@@ -2,7 +2,11 @@
   "name": "weatherapp-backend",
   "version": "0.0.1",
   "description": "Weatherapp exercise backend",
-  "author": "Marko Klemetti <marko.klemetti@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrako/weatherapp.git"
+  },
+  "author": "Olli Rautiainen",
   "license": "UNLICENSED",
   "scripts": {
     "start": "node src/index.js",

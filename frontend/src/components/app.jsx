@@ -3,7 +3,6 @@ import Forecast from './forecast'
 
 const baseURL = process.env.ENDPOINT
 
-console.log('TCL: baseURL', baseURL)
 const App = () => {
   const [location, setLocation] = useState('')
   const [forecast, setForecast] = useState('')

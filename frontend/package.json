@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/mrako/weatherapp.git"
   },
-  "author": "Marko Klemetti <marko.klemetti@gmail.com>",
+  "author": "Olli Rautiainen",
   "license": "UNLICENSED",
   "scripts": {
     "start": "node_modules/.bin/webpack-dev-server --config webpack.config.js --progress --inline --colors",
