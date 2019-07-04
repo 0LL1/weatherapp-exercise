@@ -1,0 +1,27 @@
+.location {
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.weathers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.weather {
+  padding: 1rem 4rem;
+  margin: 1rem;
+  background-color: #eee;
+  border-radius: 1rem;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.weather > img {
+  width: 8rem;
+  height: 8rem;
+}
